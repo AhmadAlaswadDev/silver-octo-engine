@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1006364124183",
+    "firebase_url": "https://zaheed-d96af-default-rtdb.firebaseio.com",
+    "project_id": "zaheed-d96af",
+    "storage_bucket": "zaheed-d96af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006364124183:android:fc5611ff8bfd0aee8d6852",
+        "android_client_info": {
+          "package_name": "com.bestcoders.zaheed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006364124183-mpf5cm1akhmpmaet3g6ka8q4lifpr052.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bestcoders.zaheed",
+            "certificate_hash": "9d8887592f88fa5b63c3a3116c4feeb28de030ca"
+          }
+        },
+        {
+          "client_id": "1006364124183-skhsgac4hnadekat5dovvfv9prv2e0qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bestcoders.zaheed",
+            "certificate_hash": "8174369bf2d212e61e4abd04d30c53ed4d24b399"
+          }
+        },
+        {
+          "client_id": "1006364124183-srii6tmv2na1hj7n1auircftub3vdr8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzdXtD4G4Y_mBACnLC9eBU5314IQIe4NE"
+        },
+        {
+          "current_key": "AIzaSyB7ujMbFRmwJoqphpho4eKRRtOf8CajkOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006364124183-srii6tmv2na1hj7n1auircftub3vdr8i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006364124183-8cc2b1dm45l7kfhokndbji4rgjofgtvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bestcoders.zaheed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006364124183:android:14a70e3100df6e9e8d6852",
+        "android_client_info": {
+          "package_name": "com.zaheed.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006364124183-srii6tmv2na1hj7n1auircftub3vdr8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzdXtD4G4Y_mBACnLC9eBU5314IQIe4NE"
+        },
+        {
+          "current_key": "AIzaSyB7ujMbFRmwJoqphpho4eKRRtOf8CajkOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006364124183-srii6tmv2na1hj7n1auircftub3vdr8i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006364124183-8cc2b1dm45l7kfhokndbji4rgjofgtvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bestcoders.zaheed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

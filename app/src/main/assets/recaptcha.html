@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://www.google.com/recaptcha/api.js?render=6LfJZgsnAAAAAChDnrDJO3P7egNLU_lqn8LuLPk4"></script>
+</head>
+<body>
+<div id="recaptcha-placeholder"></div>
+<script>
+        function handleVerification(token) {
+            Android.onVerificationResult(token);
+        }
+
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6LcIVicnAAAAAB1Bm4kAhnqqvtJDvQK9cGLTZ7IJ', {action: 'homepage'}).then(function(token) {
+                handleVerification(token);
+            });
+        });
+    </script>
+</body>
+</html>
