@@ -11,9 +11,9 @@ workflows:
       script: | 
         echo "sdk.dir=$ANDROID_SDK_ROOT" > "$CM_BUILD_DIR/local.properties"
     - name: Set Gradlew permissions
-      script: chmod +x android/gradlew
+      script: chmod +x ./gradlew
     - name: Build Android release
       script: | 
-        ./android/gradlew assembleRelease
+        ./gradlew assembleRelease
   artifacts:
     - app/build/outputs/apk/release/app-release.apk
